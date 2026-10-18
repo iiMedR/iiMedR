@@ -33,7 +33,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,angular,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Angular, Docker, PostgreSQL" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,nextjs,mysql,nodejs,docker,postgres&theme=dark" alt="Spring Boot, React, Angular, Next.js, MySQL, Node.js, Docker, PostgreSQL" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" /><br/>
 
 </div>
