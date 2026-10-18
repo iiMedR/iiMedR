@@ -1,128 +1,86 @@
 <div align="center">
 
-# Hey, I'm Mohamed Reda El Ghazouani 👋
+  <!-- Waving header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=200&section=header&text=iiMedR&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 
-### Backend-focused developer · Java & Spring Boot ☕
+  <!-- Animated introduction -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=50&lines=Java+%26+Spring+Boot+Developer;REST+APIs+%26+Backend+Development;React+%26+Next.js+Projects" alt="Typing SVG" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Building+APIs+with+Java+%26+Spring+Boot;Connecting+backends+to+real+user+experiences;Learning+one+project+at+a+time" alt="Building APIs with Java and Spring Boot. Connecting backends to real user experiences. Learning one project at a time." />
+  <br/><br/>
 
-<p>
-Based in Morocco 🇲🇦<br/>
-Building my backend foundations through hands-on projects,<br/>
-from authentication and relational data to collaborative web applications.
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-iiMedR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiMedR)
-
-</div>
-
----
-
-### 👨‍💻 A little about me
-
-I'm Mohamed Reda, a developer building projects across the backend and frontend, with a growing focus on **Java and Spring Boot**.
-
-My repositories follow that learning journey: book and movie APIs, authenticated notes and expense trackers, a task management backend, and full-stack applications. Each project gives me another opportunity to practice how application logic, data, and user interfaces fit together.
-
-- ☕ **Main focus:** REST APIs, Spring Security, JWT authentication, and PostgreSQL.
-- 🔭 **In progress:** MiniShop, a shop and order API, starting with its data model and database setup.
-- 🧩 **Also building with:** React, Next.js, TypeScript, and PHP.
-- 🌱 **Practicing:** Data modeling, validation, authorization, testing, and Docker workflows.
-
----
-
-### ⚡ Technologies in my projects
-
-<div align="center">
-
-**Backend & databases**
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,php,mysql,maven&theme=dark" alt="Java, Spring, PostgreSQL, PHP, MySQL, Maven" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" />
-
-**Development tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, Docker" />
-
-<br/><br/>
-
-`Spring Security` · `Spring Data JPA` · `Hibernate` · `JWT` · `Swagger / OpenAPI` · `JUnit` · `Mockito`
+  <p>
+    <a href="https://github.com/iiMedR">
+      <img src="https://komarev.com/ghpvc/?username=iiMedR&color=007acc&style=flat-square&label=Profile+Views" alt="Profile views" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 🚀 Selected projects
+### 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> *Learning by building, one project at a time.*
 
-<h3>✅ TaskFlow API</h3>
-<p>A Spring Boot task management backend with JWT authentication, task ownership checks, search, filtering, and pagination. Includes Swagger documentation, service tests, and Docker setup.</p>
-<p><b>Java · Spring Boot · PostgreSQL · Docker</b></p>
-<p><a href="https://github.com/iiMedR/SpringBoot-Task-Management-Backend">Explore TaskFlow →</a></p>
+- ☕ **Java & Spring Boot**: Building REST APIs with validation, persistence, and clear application layers.
+- 🔐 **Authentication & Data**: Practicing Spring Security, JWT authentication, JPA, and PostgreSQL.
+- 🌐 **Full-Stack Projects**: Working with React, Next.js, TypeScript, and PHP.
+- 🛠️ **Hands-On Learning**: Building TaskFlow, Expense Tracker, Notes API, and a growing MiniShop project.
+- 🇲🇦 **Based in Morocco**: I'm Mohamed Reda El Ghazouani — welcome to my GitHub.
 
-</td>
-<td width="50%" valign="top">
+---
+### 💻 Programming Languages
 
-<h3>💸 Expense Tracker API</h3>
-<p>A personal expense API with authenticated access, user-owned expenses and categories, spending filters, and totals. Built to practice business rules and authorization.</p>
-<p><b>Java · Spring Security · JPA · PostgreSQL</b></p>
-<p><a href="https://github.com/iiMedR/ExpenseTrackerAPI_SpringBoot">Explore Expense Tracker →</a></p>
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-<h3>📝 RealTime Docs</h3>
-<p>A collaborative document editor with live editing, inline comments, document templates, and personal or organization-based access.</p>
-<p><b>Next.js · TypeScript · Convex · Liveblocks · TipTap</b></p>
-<p><a href="https://github.com/iiMedR/RealTime-Docs">Explore RealTime Docs →</a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎨 Areesia</h3>
-<p>A print-on-demand marketplace project combining a React interface, PHP account APIs, and a MySQL database blueprint. Includes customer and designer workflows, with commerce features still in progress.</p>
-<p><b>React · JavaScript · PHP · MySQL</b></p>
-<p><a href="https://github.com/iiMedR/Areesia-Full-Stack-POD-Marketplace-React-PHP">Explore Areesia →</a></p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 🌱 Learning through smaller builds
+### 🛠️ Frameworks, Databases & Tools
 
-| Project | What it explores |
-| :--- | :--- |
-| [MiniShop](https://github.com/iiMedR/MiniShop_SpringBoot) | Shop and order data modeling with JPA and PostgreSQL; API implementation in progress |
-| [Notes API](https://github.com/iiMedR/NotesAPI_SpringBoot) | JWT authentication and user-owned notes |
-| [Movie Watchlist API](https://github.com/iiMedR/MovieWatchListAPI_SpringBoot) | CRUD, validation, filtering, and rating rules |
-| [Book Library API](https://github.com/iiMedR/BookLibraryAPI_SpringBoot) | DTOs, persistence, and exception handling |
-| [Kotlibes](https://github.com/iiMedR/kotlibes) | An AI marketing platform and my first full-stack project |
-| [Email Spam Classification](https://github.com/iiMedR/ML_spam_email_classification) | An academic introduction to machine learning for email classification |
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+  <br/><br/>
+
+  <!-- Version control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iiMedR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" height="175"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="175"/>
+
+</div>
 
 ---
 
 <div align="center">
-
-### 🤝 Let's connect
-
-Explore my projects, share feedback, or follow along as I build.
-
-<a href="https://github.com/iiMedR?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_my_repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-</a>
-
-<br/><br/>
-
-<sub>One project, one lesson, one step forward. ☕</sub>
-
+  <sub>Learning, building, and improving. 🚀</sub>
 </div>
