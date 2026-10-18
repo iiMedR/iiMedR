@@ -42,8 +42,6 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iiMedR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" height="175"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="175"/>
 
   <br/><br/>
@@ -57,6 +55,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
