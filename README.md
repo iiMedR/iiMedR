@@ -2,6 +2,7 @@
   <h1>Mohamed Reda El Ghazouani</h1>
   <h3>Full-Stack Developer SpringBoot - React/Angular</h3>
 </div>
+
 ---
 
 ### 🚀 About Me
@@ -68,4 +69,5 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
