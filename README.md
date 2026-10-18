@@ -34,7 +34,8 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Docker, PostgreSQL" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,postman&theme=dark" alt="Git, GitHub, Figma, VS Code, IntelliJ IDEA, Postman" /><br/>
+  <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI" />
 
 </div>
 
@@ -53,6 +54,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
