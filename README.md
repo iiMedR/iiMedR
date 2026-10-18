@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-> *Learning by building, one project at a time.*
+> I build things, break things, and figure things out. Mostly Java and Spring Boot these days.
 
 - ☕ **Java & Spring Boot**: Building REST APIs with validation, persistence, and clear application layers.
 - 🔐 **Authentication & Data**: Practicing Spring Security, JWT authentication, JPA, and PostgreSQL.
@@ -72,6 +72,7 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
