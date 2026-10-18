@@ -1,23 +1,7 @@
 <div align="center">
-
-  <!-- Waving header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=200&section=header&text=iiMedR&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
-
-  <!-- Animated introduction -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=50&lines=Java+%26+Spring+Boot+Developer;REST+APIs+%26+Backend+Development;React+%26+Next.js+Projects" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <a href="https://github.com/iiMedR">
-      <img src="https://komarev.com/ghpvc/?username=iiMedR&color=007acc&style=flat-square&label=Profile+Views" alt="Profile views" />
-    </a>
-  </p>
-
+  <h1>Mohamed Reda El Ghazouani</h1>
+  <h3>Full-Stack Developer SpringBoot - React/Angular</h3>
 </div>
-
 ---
 
 ### 🚀 About Me
@@ -84,3 +68,4 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
