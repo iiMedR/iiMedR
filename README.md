@@ -1,5 +1,8 @@
 <div align="center">
-  <h3>Mohamed Reda El Ghazouani</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
+    <img src="name-light.svg" alt="Mohamed Reda El Ghazouani" width="850" height="65" />
+  </picture>
   <p><b>Full-Stack Developer SpringBoot - React/Angular</b></p>
 </div>
 
@@ -69,6 +72,7 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
