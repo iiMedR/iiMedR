@@ -12,6 +12,10 @@
     <a href="https://substack.com/@iimedr">
       <img src="https://img.shields.io/badge/Substack-My_Writing-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack: My Writing" />
     </a>
+    &nbsp;
+    <a href="https://x.com/Medr4321">
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X: Follow" />
+    </a>
   </p>
 </div>
 
@@ -56,6 +60,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&langs_count=4&hide_border=true&border_radius=6&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
 
 </div>
+
 
 
 
