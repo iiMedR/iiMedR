@@ -21,25 +21,23 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <p><b>Backend & Databases</b></p>
+  <img src="https://skillicons.dev/icons?i=php,java,python,ts,js,html,css&theme=dark" alt="PHP, Java, Python, TypeScript, JavaScript, HTML, CSS" />
 
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven&theme=dark" alt="Java, Spring, PostgreSQL, Maven" />
-
-  <p><b>Frontend & Other Languages</b></p>
-
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,python,html,css&theme=dark" alt="Angular, TypeScript, JavaScript, Python, HTML, CSS" />
-
-  <p><b>Tools & Workflow</b></p>
-
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark" alt="Git, GitHub, IntelliJ IDEA, Postman" />
+  <p><b>SQL</b></p>
 
 </div>
 
-<br/>
+---
+
+### 🛠️ Frameworks, Databases & Tools
 
 <div align="center">
 
-`Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `JWT` · `REST APIs` · `SQL`
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Docker, PostgreSQL" />
+
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
 
 </div>
 
@@ -58,6 +56,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
