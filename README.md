@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Mohamed Reda El Ghazouani</h1>
-  <h3>Full-Stack Developer SpringBoot - React/Angular</h3>
+  <h3>Mohamed Reda El Ghazouani</h3>
+  <p><b>Full-Stack Developer SpringBoot - React/Angular</b></p>
 </div>
 
 ---
@@ -69,5 +69,6 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
