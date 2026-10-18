@@ -21,7 +21,9 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,php&theme=dark" alt="Java, Python, TypeScript, JavaScript, HTML, CSS, PHP" />
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html&theme=dark" alt="TypeScript, JavaScript, HTML" /><br/>
+  <img src="https://skillicons.dev/icons?i=css,php&theme=dark" alt="CSS, PHP" />
 
 </div>
 
@@ -31,10 +33,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Docker, PostgreSQL" />
-
-  <br/><br/>
-
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Docker, PostgreSQL" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
 
 </div>
@@ -54,6 +53,8 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
+
 
 
 
