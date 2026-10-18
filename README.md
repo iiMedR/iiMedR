@@ -43,8 +43,8 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=iiMedR&hide_border=true&border_radius=6&background=0D0D0D&ring=FF9500&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=777777&stroke=0D0D0D&card_width=495&card_height=195&disable_animations=true" alt="GitHub Streak Stats: total contributions, current streak, and longest streak" width="495" /><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&hide_border=true&border_radius=6&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
+  <img src="https://streak-stats.demolab.com?user=iiMedR&hide_border=true&border_radius=6&background=00000000&ring=FF9500&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=777777&stroke=00000000&card_width=495&card_height=195&disable_animations=true" alt="GitHub Streak Stats: total contributions, current streak, and longest streak" width="495" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&hide_border=true&border_radius=6&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
 
 </div>
 
@@ -52,4 +52,5 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
