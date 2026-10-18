@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-> I build things, break things, and figure things out. Mostly Java and Spring Boot these days.
+I build things, break things, and figure things out. Mostly Java and Spring Boot these days.
 
 - ☕ **Backend Engineering** — Java, Spring Boot, RESTful APIs, and scalable application architecture.
 - 🔐 **Security & Persistence** — Spring Security, JWT, JPA, and PostgreSQL.
@@ -70,6 +70,7 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
