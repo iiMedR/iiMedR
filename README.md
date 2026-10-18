@@ -4,6 +4,15 @@
     <img src="https://raw.githubusercontent.com/iiMedR/iiMedR/main/name-light.svg" alt="Mohamed Reda El Ghazouani" width="850" height="65" />
   </picture>
   <p><b>Full-Stack Developer SpringBoot - React/Angular</b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/elghazouani/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Connect" />
+    </a>
+    &nbsp;
+    <a href="https://substack.com/@iimedr">
+      <img src="https://img.shields.io/badge/Substack-My_Writing-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack: My Writing" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -33,7 +42,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=spring,react,angular,nextjs,mysql,nodejs,docker,postgres&theme=dark" alt="Spring Boot, React, Angular, Next.js, MySQL, Node.js, Docker, PostgreSQL" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nextjs,nodejs,postgres,mysql,docker&theme=dark" alt="Spring Boot, Angular, React, Next.js, Node.js, PostgreSQL, MySQL, Docker" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" /><br/>
 
 </div>
@@ -47,5 +56,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&langs_count=4&hide_border=true&border_radius=6&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
 
 </div>
+
+
 
 
