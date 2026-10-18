@@ -33,7 +33,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Docker, PostgreSQL" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,mysql,nodejs,react,angular,docker,postgres&theme=dark" alt="Spring Boot, Next.js, MySQL, Node.js, React, Angular, Docker, PostgreSQL" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" /><br/>
 
 </div>
@@ -47,4 +47,5 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&langs_count=4&hide_border=true&border_radius=6&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
 
 </div>
+
 
