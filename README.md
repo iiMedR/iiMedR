@@ -12,10 +12,10 @@
 
 I build things, break things, and figure things out. Mostly Java and Spring Boot these days.
 
-- ☕ **Backend Engineering** — Java, Spring Boot, RESTful APIs, and scalable application architecture.
-- 🔐 **Security & Persistence** — Spring Security, JWT, JPA, and PostgreSQL.
-- 🌐 **Frontend** — Angular, React, Next.js, and TypeScript.
-- 🚀 **Selected Projects** — TaskFlow, Expense Tracker, Notes API, and MiniShop.
+- ☕ **Backend Engineering**: Java, Spring Boot, RESTful APIs, and scalable application architecture.
+- 🔐 **Security & Persistence**: Spring Security, JWT, JPA, and PostgreSQL.
+- 🌐 **Frontend**: Angular, React, Next.js, and TypeScript.
+- 🚀 **Selected Projects**: TaskFlow, Expense Tracker, Notes API, and MiniShop.
 ---
 ### 💻 Programming Languages
 
@@ -47,3 +47,4 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&langs_count=4&hide_border=true&border_radius=6&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&card_width=495&disable_animations=true" alt="Most Used Languages" width="495" />
 
 </div>
+
