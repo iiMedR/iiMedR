@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg" />
-    <img src="name-light.svg" alt="Mohamed Reda El Ghazouani" width="850" height="65" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiMedR/iiMedR/main/name-dark.svg" />
+    <img src="https://raw.githubusercontent.com/iiMedR/iiMedR/main/name-light.svg" alt="Mohamed Reda El Ghazouani" width="850" height="65" />
   </picture>
   <p><b>Full-Stack Developer SpringBoot - React/Angular</b></p>
 </div>
@@ -72,6 +72,7 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
