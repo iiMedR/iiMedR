@@ -21,9 +21,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=php,java,python,ts,js,html,css&theme=dark" alt="PHP, Java, Python, TypeScript, JavaScript, HTML, CSS" />
-
-  <p><b>SQL</b></p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,php&theme=dark" alt="Java, Python, TypeScript, JavaScript, HTML, CSS, PHP" />
 
 </div>
 
@@ -56,6 +54,7 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
