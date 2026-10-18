@@ -12,12 +12,10 @@
 
 > I build things, break things, and figure things out. Mostly Java and Spring Boot these days.
 
-- ☕ **Java & Spring Boot**: Building REST APIs with validation, persistence, and clear application layers.
-- 🔐 **Authentication & Data**: Practicing Spring Security, JWT authentication, JPA, and PostgreSQL.
-- 🌐 **Full-Stack Projects**: Working with React, Next.js, TypeScript, and PHP.
-- 🛠️ **Hands-On Learning**: Building TaskFlow, Expense Tracker, Notes API, and a growing MiniShop project.
-- 🇲🇦 **Based in Morocco**: I'm Mohamed Reda El Ghazouani — welcome to my GitHub.
-
+- ☕ **Backend Engineering** — Java, Spring Boot, RESTful APIs, and scalable application architecture.
+- 🔐 **Security & Persistence** — Spring Security, JWT, JPA, and PostgreSQL.
+- 🌐 **Frontend** — Angular, React, Next.js, and TypeScript.
+- 🚀 **Selected Projects** — TaskFlow, Expense Tracker, Notes API, and MiniShop.
 ---
 ### 💻 Programming Languages
 
@@ -72,6 +70,7 @@
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
+
 
 
 
