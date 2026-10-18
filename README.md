@@ -42,34 +42,13 @@ I build things, break things, and figure things out. Mostly Java and Spring Boot
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iiMedR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="175"/>
 
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=iiMedR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=iiMedR&hide_border=true&border_radius=6&background=0D0D0D&ring=FF9500&fire=FF9500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=777777&stroke=0D0D0D&card_width=495&card_height=195&disable_animations=true" alt="GitHub Streak Stats: total contributions, current streak, and longest streak" width="495" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iiMedR&show_icons=true&include_all_commits=true&hide_border=true&border_radius=6&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=4ADE80&ring_color=4ADE80&card_width=495&custom_title=GitHub%20Stats&text_bold=false&disable_animations=true" alt="GitHub Stats: commits, stars, pull requests, and issues" width="495" />
 
 </div>
 
 ---
-
 <div align="center">
   <sub>Learning, building, and improving. 🚀</sub>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
